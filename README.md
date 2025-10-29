@@ -23,8 +23,8 @@ Automatización / DevOps	Ansible, Terraform, Git, CI/CD
 Lenguajes	Python, Bash, PowerShell
 Redes	Cisco ISE, DNS, DHCP, VLANs, Routing
 Monitorización / Backup	TrueNAS, Nextcloud, Zabbix
-🧩 Proyecto destacado
 
+🧩 Proyecto destacado
 Infraestructura automatizada con Proxmox y Ansible
 Despliegue de un entorno completo con máquinas virtuales (AD, servidores Linux, NAS, nube privada y repositorio Git) gestionadas automáticamente mediante Ansible y aprovisionadas con Terraform.
 
