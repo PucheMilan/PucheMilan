@@ -32,13 +32,13 @@ Despliegue de un entorno completo con máquinas virtuales (AD, servidores Linux,
 in progress
 
 📫 Contacto
-
 📧 sergiopuchemilan@gmail.com
 
 💼 LinkedIn
 www.linkedin.com/in/myspm
 
 🧑‍💻 GitHub
+https://github.com/PucheMilan
 
 <!---
 PucheMilan/PucheMilan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
