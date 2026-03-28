@@ -1,4 +1,4 @@
-# Sergio Puche Milán
+# Sergio P.
 
 **SysAdmin | DevSecOps | Building security tools**
 
