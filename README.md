@@ -37,17 +37,9 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ---
 
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=PucheMilan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PucheMilan&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Contacto
 
-**Email** — sergiopuchemilan@gmail.com
+**Email** — sergio.puche.milan@gmail.com
 **LinkedIn** — [linkedin.com/in/myspm](https://www.linkedin.com/in/myspm)
 
 <!---
