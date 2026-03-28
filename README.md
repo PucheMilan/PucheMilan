@@ -39,10 +39,9 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PucheMilan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E11&title_color=7F77DD&icon_color=1D9E75&text_color=9BA4B0" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PucheMilan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E11&title_color=7F77DD&text_color=9BA4B0" height="165">
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=PucheMilan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PucheMilan&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
