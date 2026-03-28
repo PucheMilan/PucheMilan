@@ -39,7 +39,6 @@ Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mie
 
 ### 📫 Contacto
 
-**Email** — sergio.puche.milan@gmail.com
 **LinkedIn** — [linkedin.com/in/myspm](https://www.linkedin.com/in/myspm)
 
 <!---
