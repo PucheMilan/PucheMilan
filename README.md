@@ -2,7 +2,7 @@
 
 **SysAdmin | DevSecOps | Building security tools**
 
-Administrador de sistemas metido en DevOps y ciberseguridad. Gestiono un homelab con un cluster K3s de 4 nodos donde despliego mis propias herramientas de seguridad con GitOps. Me gusta construir cosas que funcionen y automatizar todo lo que puedo.
+Administrador de sistemas metido en DevOps y ciberseguridad. Gestiono un homelab con un cluster K8s de 4 nodos donde despliego mis propias herramientas de seguridad con GitOps. Me gusta construir cosas que funcionen y automatizar todo lo que puedo.
 
 Actualmente aprendiendo ciberseguridad ofensiva, OSINT y threat intelligence mientras lo aplico construyendo herramientas reales.
 
